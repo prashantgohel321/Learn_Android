@@ -21,8 +21,10 @@ This project solves that problem by introducing a **dynamic dialog system** that
 ---
 
 ## Screenshots
-<img src="/screenshots/S1.png" alt="Screenshot 1" height="420px">
-<img src="/screenshots/S2.png" alt="Screenshot 2" height="420px">
+<div style="display:inline; align:center;">
+<img src="screenshots/S1.png" alt="Screenshot 1" height="420px">
+<img src="screenshots/S2.png" alt="Screenshot 2" height="420px">
+</div>
 
 ---
 ## 📌 Features
